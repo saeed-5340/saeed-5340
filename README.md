@@ -12,7 +12,7 @@
 
 ## 📫 Connect with me
 - ✉️ saeedmridha42@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/saeed-ahamed-mridha)
 - 💻 [GitHub](https://github.com/saeed-5340)
 
 > “Keep pushing forward — even small steps count.” 🚀
