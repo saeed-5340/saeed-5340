@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Saeed Ahamed Mridha
 
-<!--
-**saeed-5340/saeed-5340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year EEE student at SUST  
+🤖 Passionate about Control Systems, Robotics, and Embedded Systems  
+📡 Interested in Autonomous Vehicles, Drones, and ROS2  
+🧠 Currently learning: Python, Arduino, ROS2, and MATLAB  
+📚 Always curious about how things work and how to automate them
 
-Here are some ideas to get you started:
+## 🔧 Projects I'm working on
+- 🕹️ PID Self-Balancing Robot
+- 🤖 Swarm Robot with ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- ✉️ saeedmridha42@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💻 [GitHub](https://github.com/saeed-5340)
+
+> “Keep pushing forward — even small steps count.” 🚀
