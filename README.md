@@ -17,7 +17,7 @@ I have hands-on experience in:
 - **Robotics:** ROS2 simulation, URDF robot modeling, sensor integration, PID control, and swarm robotics  
 - **Electronics:** Circuit design, PCB layout, motor control, and sensor interfacing  
 
-I also actively practice **algorithmic problem solving**, having solved **250+ problems on Codeforces, CodeChef, and VJudge**, which strengthened my analytical thinking and debugging skills.  
+I having solved **250+ problems on Codeforces, CodeChef, and VJudge**, which strengthened my analytical thinking and debugging skills.  
 
 Currently, I am developing **autonomous car control systems** and **ROS2-based drone simulations**, focusing on **navigation, control algorithms, and micro-ROS hardware communication**.  
 
